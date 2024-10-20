@@ -2,7 +2,7 @@
 
 **Author:** Karthik S Sathyan  
 **Date:** 20 October 2024  
-**Project Description:** This project provides a detailed explanation of significant DNS security initiatives, frameworks, and awareness efforts as presented in the DNS security document. These highlighted initiatives are essential to understanding the practical steps being taken to enhance DNS security and prevent abuse.
+**Project Description:** This project provides a detailed explanation of significant DNS security initiatives, frameworks, and awareness. These highlighted initiatives are essential to understanding the practical steps being taken to enhance DNS security and prevent abuse.
 
 ---
 
